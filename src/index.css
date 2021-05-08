@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background : linear-gradient(58deg, #6e5eff 0%, #04C8DE 100%) */
+ background-image:url("https://ii1.pepperfry.com/media/catalog/product/w/h/568x625/white-brass-and-wood-sand-timer-4--by-exim-d-cor-white-brass-and-wood-sand-timer-4--by-exim-d-cor-n39atv.jpg") ;
+ background-size: 1000px 700px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

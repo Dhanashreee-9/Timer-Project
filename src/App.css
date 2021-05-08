@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.lightest-blue { 
+  color: var(--lightest-blue); 
+}
+
